@@ -3,10 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=narongskml&label=Profile%20views&color=0e75b6&style=flat" alt="narongskml" /> </p>
 
-- 🌱 I’m currently learning **นำเสนอความรู้เชิงเทคนิค ให้ เข้าใจ และเข้าถึง ได้ง่าย**
+- 🌱 I’m currently learning **นำเสนอความรู้เชิงเทคนิค เกี่ยวกับ Software Development ให้ เข้าใจ และเข้าถึง ได้ง่าย**
 
 - 💬 Ask me about **สวัสดีครับ ผมชื่อ ตั้ม ทำงานสายซอฟต์แวร์ และ เป็นคนที่หลงใหลในเทคโนโลยี และ การเขียนโปรแกรม**
-
+💬 Ask me about
 - 📫 How to reach me **narong.skml@gmail.com**
 <br/>
 ใน repo นี้ผมได้จัดทำไว้เก็บข้อมูล ตัวอย่าง โค้ด ที่ใช้สำหรับแชร์ ความรู้ เพื่อเป็นประโยชน์ แก่การพัฒนาตัวเอง
@@ -15,9 +15,9 @@
 
 ##
 
-Hi, I'm Tom – I 'm working in software developer and tech enthusiast who loves programming and exploring new technologies.
+💬 Ask me about : Hi, I'm Tom – I 'm working in software developer and tech enthusiast who loves programming and exploring new technologies.
 
-🎥 I run a YouTube channel, [T-LIVE-CODE](https://www.youtube.com/@t-live-code), where I share coding tutorials and tips.
+🎥 I run a YouTube channel, <a href="https://www.youtube.com/@t-live-code" target="blank"><img width="80px"  src="https://cdn.jsdelivr.net/gh/narongskml/html5-learn@latest/assets/imgs/TlivecodeLogo-450.webp" /></a>, where I share coding tutorials and tips.
 
 🌱 Currently, I’m learning more about AI, Security, and Cloud technologies.
 
@@ -28,7 +28,7 @@ Feel free to check out my projects and connect with me!
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/narong-sungkhamalai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="narong-sungkhamalai" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@t-live-code" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@t-live-code" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@t-live-code" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@t-live-code" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/narong_skml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="narong_skml" height="30" width="40" /></a>
 </p>
 
